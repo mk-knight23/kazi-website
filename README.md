@@ -11,7 +11,7 @@ Welcome to the **Web PROJECTS**! 🎉 This repository contains over 22+ 🔥 Web
 | 03  | 5 FUN WEB        | [View Code](https://github.com/mk-knight23/5-FUN)                             | [Preview Site](https://mk-knight23.github.io/5-FUN)
 | 04  | Typing WEB       | [View Code](https://github.com/mk-knight23/typing12)                          | [Preview Site](https://mk-knight23.github.io/typing12)
 | 05  | IMDB WEB         | [View Code](https://github.com/mk-knight23/imdbApi)                           | [Preview Site](https://mk-knight23.github.io/imdbApi)
-| 06  | ION WEB          | [View Code](https://github.com/mk-knight23/ion)                               | [Preview Site](https://mk-knight23.github.io/ion)
+| 06  | ION WEB          | [View Code](https://github.com/mk-knight23/ion)                               | [Preview Site](https://mk-knight23.github.io/MK23)
 | 07  | IMG WEB          | [View Code](https://github.com/mk-knight23/upload-img-fire)                   | [Preview Site](https://mk-knight23.github.io/upload-img-fire)
 | 08  | DATA Entry       | [View Code](https://github.com/mk-knight23/DATA-ENTRY)                        | [Preview Site](https://mk-knight23.github.io/DATA-ENTRY)
 | 09  | Astray GAME      | [View Code](https://github.com/mk-knight23/Astray-master)                     | [Preview Site](https://astray-master.vercel.app)
