@@ -17,18 +17,7 @@ Welcome to the **Web PROJECTS**! 🎉 This repository contains over 22+ 🔥 Web
 | 09  | Astray GAME      | [View Code](https://github.com/mk-knight23/Astray-master)                     | [Preview Site](https://astray-master.vercel.app)
 | 10  | MY Demo Game     | [View Code](https://github.com/mk-knight23/mydemo)                            | [Preview Site](https://mk-knight23.github.io/mydemo)
 | 11  | Drawing WEB      | [View Code](https://github.com/mk-knight23/Draw)                               | [Preview Site](https://mk-knight23.github.io/Draw)
-| 12  | Bat Ball         | [View Code](https://github.com/alsiam/web-projects/tree/main/bat-ball)         | [Preview Site](https://alsiam.github.io/web-projects/bat-ball)
-| 13  | Navigation Bar   | [View Code](https://github.com/alsiam/web-projects/tree/main/navigation-bar)   | [Preview Site](https://alsiam.github.io/web-projects/navigation-bar)
-| 14  | Football Club    | [View Code](https://github.com/alsiam/web-projects/tree/main/football-club)    | [Preview Site](https://alsiam.github.io/web-projects/football-club)
-| 15  | Fashion Ecommerce| [View Code](https://github.com/alsiam/web-projects/tree/main/fashion-ecommerce)| [Preview Site](https://alsiam.github.io/web-projects/fashion-ecommerce)
-| 16  | Jamuna News      | [View Code](https://github.com/alsiam/web-projects/tree/main/jamuna-news)      | [Preview Site](https://alsiam.github.io/web-projects/jamuna-news)
-| 17  | Personal Web     | [View Code](https://github.com/alsiam/web-projects/tree/main/personal-website) | [Preview Site](https://alsiam.github.io/web-projects/personal-website)
-| 18  | Simple Cart      | [View Code](https://github.com/alsiam/web-projects/tree/main/simple-cart)      | [Preview Site](https://alsiam.github.io/web-projects/simple-cart)
-| 19  | Portfolio     | [View Code](https://github.com/alsiam/web-projects/tree/main/portfolio)     | [Preview Site](https://alsiam.github.io/web-projects/portfolio)
-| 20  | Systematic Page  | [View Code](https://github.com/alsiam/web-projects/tree/main/systematic-page)  | [Preview Site](https://alsiam.github.io/web-projects/systematic-page)
-| 21  | Books Library    | [View Code](https://github.com/alsiam/web-projects/tree/main/books-library)    | [Preview Site](https://alsiam.github.io/web-projects/books-library)
-| 22  | Macbook Cart     | [View Code](https://github.com/alsiam/web-projects/tree/main/macbook-cart)     | [Preview Site](https://alsiam.github.io/web-projects/macbook-cart)
-| 23  | Restaurant Menu  | [View Code](https://github.com/alsiam/web-projects/tree/main/restaurnat-menu)  | [Preview Site](https://alsiam.github.io/web-projects/restaurnat-menu)
+
 
 ## How to Contribute 👨‍💻
 
