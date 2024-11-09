@@ -1,7 +1,6 @@
 {
   "name": "kazi-website",
   "version": "0.1.0",
-
   "homepage": "https://mk-knight23.github.io/kazi-website",
   "private": true,
   "dependencies": {
